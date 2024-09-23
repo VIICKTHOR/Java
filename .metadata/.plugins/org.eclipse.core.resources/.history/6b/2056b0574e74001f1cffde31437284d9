@@ -1,0 +1,11 @@
+package um;
+
+public class Main {
+	public static void main(String[] args) {
+		
+		FormaGeometrica c = new Circulo();
+		FormaGeometrica q = new Quadrado();
+		
+		
+	}
+}

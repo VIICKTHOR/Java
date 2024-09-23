@@ -1,0 +1,6 @@
+package um;
+
+public interface FormaGeometrica {
+	public void area(Forma f);
+	public void comprimento(Forma f);
+}

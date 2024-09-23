@@ -1,0 +1,5 @@
+package dois;
+
+public class Main {
+	//A Classe não poderia virar um interface pois nesse exemplo não temos nenhum métodos e 
+}

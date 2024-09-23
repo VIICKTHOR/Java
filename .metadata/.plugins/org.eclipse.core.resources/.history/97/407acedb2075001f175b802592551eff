@@ -1,0 +1,24 @@
+package q1;
+
+public class ContaPoupanca implements Conta{
+	private double Total=0;
+
+	@Override
+	public void depositar(double valor) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void sacar(double valor) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public double getSaldo() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

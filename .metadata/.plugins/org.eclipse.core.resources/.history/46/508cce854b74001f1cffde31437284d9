@@ -1,0 +1,17 @@
+package um;
+
+public class Circulo implements FormaGeometrica{
+
+	@Override
+	public void area() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void comprimento() {
+		// TODO Auto-generated method stub
+		
+	}
+	
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;mainPack&apos; to &apos;questao4&apos;&#x0D;&#x0A;- Original project: &apos;TratamentoExcecao&apos;&#x0D;&#x0A;- Original element: &apos;TratamentoExcecao/src/mainPack&apos;&#x0D;&#x0A;- Renamed element: &apos;TratamentoExcecao/src/questao4&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;mainPack&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;mainPack" name="questao4" qualified="false" references="true" stamp="1726160867958" textual="false" version="1.0"/>
+</session>

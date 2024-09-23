@@ -1,0 +1,18 @@
+package um;
+
+public class Quadrado implements FormaGeometrica{
+	private double lado=0;
+	
+	@Override
+	public void area() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void comprimento() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

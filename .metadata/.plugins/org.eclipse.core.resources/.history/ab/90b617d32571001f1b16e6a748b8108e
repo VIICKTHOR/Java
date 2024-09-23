@@ -1,0 +1,13 @@
+package mainPack;
+
+import java.util.Scanner;
+
+public class Main {
+	
+	public static void main(String[] args) {
+		
+	  Scanner s = new Scanner(System.in);
+	  
+	  String[] meses = {"Janeiro","Fevereiro","Março","Abril","Maio","Junho","Julho","Agosto","Setembro","Outubro","Novembro","Dezembro"};
+	}
+}

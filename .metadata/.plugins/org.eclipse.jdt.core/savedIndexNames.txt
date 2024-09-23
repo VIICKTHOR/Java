@@ -1,0 +1,27 @@
+INDEX VERSION 1.134+C:\Users\vikth\OneDrive\Área de Trabalho\Java\.metadata\.plugins\org.eclipse.jdt.core
+3132313831.index
+203518790.index
+4286863812.index
+4292023217.index
+2038277092.index
+157853129.index
+456084449.index
+3178685278.index
+549600552.index
+4060418663.index
+410643345.index
+2151872599.index
+1643166100.index
+845764413.index
+279868512.index
+1865797976.index
+3674927624.index
+1672411255.index
+3125100508.index
+3697751569.index
+1164863403.index
+3938121131.index
+2464880308.index
+3351125185.index
+2886582942.index
+2125722497.index

@@ -1,0 +1,26 @@
+package um;
+
+public class Quadrado implements FormaGeometrica{
+	private double lado=0;
+	
+	@Override
+	public void area() {
+		
+		System.out.println("A área do quadrado é "+(lado*lado)+" metros quadrados");
+	}
+
+	@Override
+	public void comprimento() {
+
+		System.out.println("O comprimento do quadrado é"+(lado*4)+" metros");
+	}
+
+	public double getLado() {
+		return lado;
+	}
+
+	public void setLado(double lado) {
+		this.lado = lado;
+	}
+
+}

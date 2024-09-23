@@ -1,0 +1,24 @@
+package q1;
+
+public class ContaCorrente implements Conta{
+	double total=0;
+	
+	@Override
+	public void depositar(double valor) {
+		total=total+(valor-(valor*0.0045));
+		
+	}
+
+	@Override
+	public void sacar(double valor) {
+		total=total-((valor+(valor*0.0045)));
+		
+	}
+
+	@Override
+	public double getSaldo() {
+		// TODO Auto-generated method stub
+		return total;
+	}
+
+}

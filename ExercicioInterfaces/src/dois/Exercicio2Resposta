@@ -1,0 +1,1 @@
+R: Não, nesse exemplo a classe não pode ser uma interface pois no sistema não há métodos para serem implementados e nem variáveis finais(constantes), há não ser que a interface seja criada assim vazia, porém ai não teria sentido cria-la.

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;mainPack.runtime1&apos; to &apos;Runtime1&apos;&#x0D;&#x0A;- Original project: &apos;Trédi&apos;&#x0D;&#x0A;- Original element: &apos;mainPack.runtime1&apos;&#x0D;&#x0A;- Renamed element: &apos;mainPack.Runtime1&apos;&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;runtime1&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;mainPack{runtime1.java[runtime1" matchStrategy="1" name="Runtime1" qualified="false" references="false" similarDeclarations="false" stamp="1726593593634" textual="false" version="1.0"/>
+</session>

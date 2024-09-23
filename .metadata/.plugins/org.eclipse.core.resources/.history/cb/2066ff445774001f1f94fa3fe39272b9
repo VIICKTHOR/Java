@@ -1,0 +1,44 @@
+package tres;
+
+import java.util.Scanner;
+
+public class Main {
+	public static void main(String[] args) {
+		Scanner s = new Scanner(System.in);
+		OperacaoMatematica x = null;
+		
+		System.out.println("Operações Matemáticas!");
+		System.out.println("DIgite a operação desejada:");
+		System.out.println("(1) Soma");
+		System.out.println("(2) Subtração");
+		System.out.println("(3) Multiplicação");
+		System.out.println("(4) Divisão");
+		
+		int escolha = s.nextInt();
+		switch(escolha) {
+		
+		case 1:
+			x = new Soma();
+			break;
+		case 2:
+			x = new Subtracao();
+			break;
+		case 3:
+			x = new Multiplicacao();
+			break;
+		case 4:
+			x = new Divisao();
+			break;
+		default:
+			System.out.println("Opção Inválida, Fim.");
+		}
+		System.out.println("Informe o valor A:");
+		int x0 = s.nextInt();
+		System.out.println("Informe o valor B: ");
+		int x1 = s.nextInt();
+		
+		x.calcula(x0, x1);
+		
+		s.close();
+	}
+}

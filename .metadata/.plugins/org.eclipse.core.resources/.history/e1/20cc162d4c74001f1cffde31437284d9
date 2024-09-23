@@ -1,0 +1,26 @@
+package um;
+
+public class Circulo implements FormaGeometrica{
+	private double raio=0;
+	
+	@Override
+	public void area() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void comprimento() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public double getRaio() {
+		return raio;
+	}
+
+	public void setRaio(double raio) {
+		this.raio = raio;
+	}
+	
+}
