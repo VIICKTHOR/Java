@@ -1,7 +1,0 @@
-package tres;
-
-public class Multiplicacao implements OperacaoMatematica{
-	public Multiplicacao() {
-		
-	}
-}
